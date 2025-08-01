@@ -1236,7 +1236,7 @@ STATES = {
 	}
 	s:STATE_BALEARES = {
 		create_state = {
-			country = c:SPA
+			country = c:CRT
 			owned_provinces = { x7D3FD7 x60F080 }
 		}
 
@@ -2706,7 +2706,7 @@ STATES = {
 	}
 	s:STATE_MARRAKECH = {
 		create_state = {
-			country = c:MOR
+			country = c:CRT
 			owned_provinces = { xA71D65 x60EF40 x5875FD x05EA68 x6CA1BE xDB16D9 x4DF62B x567F0E x5A68FC xB4CFFC xDF7040 x58949B x43DA94 x76734F x082C5F x7318F4 xE070C0 x6CAFA4 xFDFF7B }
 		}
 
@@ -2715,7 +2715,7 @@ STATES = {
 	}
 	s:STATE_FEZ = {
 		create_state = {
-			country = c:MOR
+			country = c:CRT
 			owned_provinces = { x955513 x99F490 x638C69 xDF3040 xD6AD03 xFAE2BB xB98CBC xA0F040 xF54743 x1A55F0 x5284C8 xB73221 x60B040 xE445EF }
 		}
 
@@ -2724,7 +2724,7 @@ STATES = {
 	}
 	s:STATE_AL_RIF = {
 		create_state = {
-			country = c:MOR
+			country = c:CRT
 			owned_provinces = { xE6D43C xDFB040 xFA1C92 x20B0C0 xF05E87 x75DC50 x8FBBB6 x9BC3AC xE95985 }
 		}
 		create_state = {
@@ -2752,7 +2752,7 @@ STATES = {
 	}
 	s:STATE_ORAN = {
 		create_state = {
-			country = c:MAS
+			country = c:CRT
 			owned_provinces = { x0D2515 x207040 x3E6888 x465605 x4CE79E x60D278 x6736D2 x6F831B x7534E5 x8C4FD5 x95CBD4 xA07040 xB78BBE xBCA418 xC2269C xCEB068  xE76FA0 xEFD8F4 }
 		}
 		create_state = {
@@ -2790,7 +2790,7 @@ STATES = {
 	}
 	s:STATE_ALGIERS = {
 		create_state = {
-			country = c:MAS
+			country = c:CRT
 			owned_provinces = { x0811DE x13AB12 x16B315 x20EF40 x20EF80 x267471 x363B86 x3BB3BB x513113 x5ACA8F  x7E5293 x9D893C xA75E78 xAA79B2 xB951DE xC6BA37 xCB898B xD14DAC xD9F21C xEB7B78 xEF919A xF151FD xFEE41A }
 		}
 		create_state = {
@@ -2804,7 +2804,7 @@ STATES = {
 	}
 	s:STATE_CONSTANTINE = {
 		create_state = {
-			country = c:CON
+			country = c:CRT
 			owned_provinces = { x01D0A0 x01EE15 x137E91 x1AF7B7 x265E07 x3AD789 x3EE58D x79D029 x7C6240 x8050A0 x991E79 xA12B39 xA31194 xA39A15 xB5486B xC3090D xC65997 xD99A74 xDC0687 xDF1F38 xFCF985 x0C42E2 xB04F35 x8FFB18
 			}
 		}
@@ -3391,7 +3391,7 @@ STATES = {
 	}
 	s:STATE_MADEIRA = {
 		create_state = {
-			country = c:POR
+			country = c:CRT
 			owned_provinces = { x385719 x4d5156}
 			state_type = unincorporated
 		}
@@ -3415,7 +3415,7 @@ STATES = {
 
 	s:STATE_AZORES = {
 		create_state = {
-			country = c:POR
+			country = c:CRT
 			owned_provinces = { x90A080 x9B6D87 x769456 }
 			state_type = unincorporated
 		}
@@ -3427,7 +3427,7 @@ STATES = {
 
 	s:STATE_CANARY_ISLANDS = {
 		create_state = {
-			country = c:SPA
+			country = c:CRT
 			owned_provinces = { x20EF01 xf0ef86 x655491 x64c2b3 xc2c164 }
 			state_type = unincorporated
 		}
@@ -7679,7 +7679,7 @@ STATES = {
 	}
 	s:STATE_SARDINIA = {
 		create_state = {
-			country = c:SAR
+			country = c:CRT
 			owned_provinces = { xFD923D x80D020 xA61F49 x0D6170 xD8550D xFA1A93 x30A040 xDC4AE3 }
 		}
 
@@ -7770,7 +7770,7 @@ STATES = {
 	}
 	s:STATE_MALTA = {
 		create_state = {
-			country = c:GBR
+			country = c:CRT
 			owned_provinces = { x015121 x3a8b51 }
 			state_type = unincorporated
 		}

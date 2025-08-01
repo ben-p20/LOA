@@ -30,7 +30,7 @@ POPS = {
 		}
 	}
 	s:STATE_SARDINIA = {
-		region_state:SAR = {
+		region_state:CRT = {
 			create_pop = {
 				culture = south_italian
 				size = 524084
@@ -38,7 +38,7 @@ POPS = {
 		}
 	}
 	s:STATE_MALTA = {
-		region_state:GBR = {
+		region_state:CRT = {
 			create_pop = {
 				culture = maltese
 				size = 117192
@@ -391,7 +391,7 @@ POPS = {
 	}
 
 	s:STATE_MADEIRA = {
-		region_state:POR = {
+		region_state:CRT = {
 			create_pop = {
 				culture = portuguese
 				size = 103532
@@ -404,7 +404,7 @@ POPS = {
 	}
 
 	s:STATE_CANARY_ISLANDS = {
-		region_state:SPA = {
+		region_state:CRT = {
 			create_pop = {
 				culture = spanish
 				size = 208004
@@ -413,7 +413,7 @@ POPS = {
 	}
 
 	s:STATE_AZORES = {
-		region_state:POR = {
+		region_state:CRT = {
 			create_pop = {
 				culture = portuguese
 				size = 103532

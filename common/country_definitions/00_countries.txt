@@ -5005,3 +5005,10 @@ IDS = {
 	cultures = { panjabi sindi }
 	capital = STATE_PUNJAB
 }
+CRT = { # Carthage
+	color = { 232 79 142 }
+	country_type = recognized
+	tier = empire
+	cultures = { hellenic }
+	capital = STATE_TUNISIA
+}
