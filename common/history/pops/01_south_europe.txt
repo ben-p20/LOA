@@ -425,7 +425,7 @@ POPS = {
 		}
 	}
 	s:STATE_EASTERN_THRACE = {
-		region_state:TUR = {
+		region_state:MAC = {
 			create_pop = {
 				culture = turkish
 				size = 832996
@@ -509,7 +509,7 @@ POPS = {
 		}
 	}
 	s:STATE_ALBANIA = {
-		region_state:TUR = {
+		region_state:MAC = {
 			create_pop = {
 				culture = albanian
 				size = 1004808
@@ -551,7 +551,7 @@ POPS = {
 		}
 	}
 	s:STATE_NORTHERN_THRACE = {
-		region_state:TUR = {
+		region_state:MAC = {
 			create_pop = {
 				culture = turkish
 				size = 273408
@@ -576,7 +576,7 @@ POPS = {
 		}
 	}
 	s:STATE_BULGARIA = {
-		region_state:TUR = {
+		region_state:MAC = {
 			create_pop = {
 				culture = turkish
 				size = 210404
@@ -689,7 +689,7 @@ POPS = {
 		}
 	}
 	s:STATE_MONTENEGRO = {
-		region_state:TUR = {
+		region_state:MAC = {
 			create_pop = {
 				culture = bosniak
 				size = 43196
@@ -703,7 +703,7 @@ POPS = {
 				size = 43800
 			}
 		}
-		region_state:MON = {
+		region_state:MAC = {
 			create_pop = {
 				culture = serb
 				size = 34396
@@ -714,7 +714,7 @@ POPS = {
 			}
 		}
 		# Cattaro Region, downscaled version of 1880 census, with inflated Italian numbers, and decreased German ones
-		region_state:AUS = {
+		region_state:MAC = {
 			create_pop = {
 				culture = serb
 				size = 15662
@@ -742,7 +742,7 @@ POPS = {
 		}
 	}
 	s:STATE_SOUTHERN_SERBIA = {
-		region_state:TUR = {
+		region_state:MAC = {
 			create_pop = {
 				culture = turkish
 				size = 124400
@@ -770,7 +770,7 @@ POPS = {
 		}
 	}
 	s:STATE_CRETE = {
-		region_state:EGY = {
+		region_state:MAC = {
 			create_pop = {
 				culture = turkish
 				size = 59992
@@ -791,7 +791,7 @@ POPS = {
 	}
 
 	s:STATE_EAST_AEGEAN_ISLANDS = {
-		region_state:TUR = {
+		region_state:MAC = {
 			create_pop = {
 				culture = turkish
 				size = 8992
@@ -815,7 +815,7 @@ POPS = {
 		}
 	}
 	s:STATE_THESSALIA = {
-		region_state:TUR = {
+		region_state:MAC = {
 			create_pop = {
 				culture = turkish
 				size = 76208
@@ -840,7 +840,7 @@ POPS = {
 		}
 	}
 	s:STATE_SKOPIA = {
-		region_state:TUR = {
+		region_state:MAC = {
 			create_pop = {
 				culture = turkish
 				size = 157296
@@ -864,7 +864,7 @@ POPS = {
 		}
 	}
 	s:STATE_MACEDONIA = {
-		region_state:TUR = {
+		region_state:MAC = {
 			create_pop = {
 				culture = turkish
 				size = 84000
@@ -894,7 +894,7 @@ POPS = {
 		}
 	}
 	s:STATE_WESTERN_THRACE = {
-		region_state:TUR = {
+		region_state:MAC = {
 			create_pop = {
 				culture = turkish
 				size = 274808
@@ -921,7 +921,7 @@ POPS = {
 		}
 	}
 	s:STATE_IONIAN_ISLANDS = {
-		region_state:ION = {
+		region_state:MAC = {
 			create_pop = {
 				culture = greek
 				size = 186404
