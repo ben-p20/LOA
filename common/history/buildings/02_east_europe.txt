@@ -1,6 +1,6 @@
 ﻿BUILDINGS={
 	s:STATE_MAZOVIA={
-		region_state:RUS={
+		region_state:LUG={
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -51,7 +51,7 @@
 		}
 	}
 	s:STATE_SILESIA={
-		region_state:PRU={
+		region_state:LUG={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -185,7 +185,7 @@
 		}
 	}
 	s:STATE_GREATER_POLAND={
-		region_state:RUS={
+		region_state:LUG={
 			create_building={
 				building="building_textile_mills"
 				add_ownership={
@@ -277,7 +277,7 @@
 		}
 	}
 	s:STATE_LESSER_POLAND={
-		region_state:RUS={
+		region_state:LUG={
 			create_building={
 				building="building_paper_mills"
 				add_ownership={
@@ -318,7 +318,7 @@
 		}
 	}
 	s:STATE_WEST_PRUSSIA={
-		region_state:PRU={
+		region_state:LUG={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -440,7 +440,7 @@
 		}
 	}
 	s:STATE_POSEN={
-		region_state:PRU={
+		region_state:LUG={
 			create_building={
 				building="building_food_industry"
 				add_ownership={
@@ -483,7 +483,7 @@
 		}
 	}
 	s:STATE_WEST_GALICIA={
-		region_state:AUS={
+		region_state:LUG={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -522,7 +522,7 @@
 				activate_production_methods={ "pm_open_air_stockyards" "pm_simple_ranch" "pm_standard_fences" "pm_unrefrigerated"  }
 			}
 		}
-		region_state:KRA={
+		region_state:LUG={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -576,7 +576,7 @@
 		}
 	}
 	s:STATE_EAST_GALICIA={
-		region_state:AUS={
+		region_state:LUG={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
