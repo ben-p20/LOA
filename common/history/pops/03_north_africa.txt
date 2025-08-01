@@ -372,7 +372,7 @@
 		}
 	}
 	s:STATE_MARRAKECH = {
-		region_state:MOR = {
+		region_state:CRT = {
 			create_pop = {
 				culture = maghrebi
 				size = 686700
@@ -393,7 +393,7 @@
 		}
 	}
 	s:STATE_FEZ = {
-		region_state:MOR = {
+		region_state:CRT = {
 			create_pop = {
 				culture = maghrebi
 				size = 878696
@@ -414,7 +414,7 @@
 		}
 	}
 	s:STATE_AL_RIF = {
-		region_state:MOR = {
+		region_state:CRT = {
 			create_pop = {
 				culture = maghrebi
 				size = 374188
@@ -536,7 +536,7 @@
 		}
 	}
 	s:STATE_CONSTANTINE = {
-		region_state:CON = {
+		region_state:CRT = {
 			create_pop = {
 				culture = maghrebi
 				size = 245953
@@ -606,7 +606,7 @@
 		}
 	}
 	s:STATE_ORAN = {
-		region_state:MAS = {
+		region_state:CRT = {
 			create_pop = {
 				culture = maghrebi
 				size = 612178
@@ -657,7 +657,7 @@
 		}
 	}
 	s:STATE_TUNISIA = {
-		region_state:TUN = {
+		region_state:CRT = {
 			create_pop = {
 				culture = maghrebi
 				size = 1165804

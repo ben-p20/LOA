@@ -315,7 +315,7 @@
 		}
 	}
 	s:STATE_CYPRUS={
-		region_state:TUR={
+		region_state:MAC={
 			create_building={
 				building="building_wheat_farm"
 				add_ownership={
@@ -530,7 +530,7 @@
 		}
 	}
 	s:STATE_ALEPPO={
-		region_state:EGY={
+		region_state:MAC={
 			create_building={
 				building="building_glassworks"
 				add_ownership={
@@ -1366,7 +1366,7 @@
 		}
 	}
 	s:STATE_HUDAVENDIGAR={
-		region_state:TUR={
+		region_state:MAC={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -1480,7 +1480,7 @@
 		}
 	}
 	s:STATE_AYDIN={
-		region_state:TUR={
+		region_state:MAC={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -1612,7 +1612,7 @@
 		}
 	}
 	s:STATE_KONYA={
-		region_state:TUR={
+		region_state:MAC={
 			create_building={
 				building="building_cotton_plantation"
 				add_ownership={
@@ -1668,7 +1668,7 @@
 		}
 	}
 	s:STATE_KASTAMONU={
-		region_state:TUR={
+		region_state:MAC={
 			create_building={
 				building="building_tea_plantation"
 				add_ownership={
@@ -1741,7 +1741,7 @@
 		}
 	}
 	s:STATE_ADANA={
-		region_state:EGY={
+		region_state:MAC={
 			create_building={
 				building="building_cotton_plantation"
 				add_ownership={
@@ -1806,11 +1806,9 @@
 				activate_production_methods={ "pm_basic_port" }
 			}
 		}
-		region_state:TUR={
-		}
 	}
 	s:STATE_TRABZON={
-		region_state:TUR={
+		region_state:MAC={
 			create_building={
 				building="building_fishing_wharf"
 				add_ownership={

@@ -2440,7 +2440,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_BALEARES={
-		region_state:SPA={
+		region_state:CRT={
 			create_building={
 				building="building_fishing_wharf"
 				add_ownership={
