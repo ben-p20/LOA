@@ -1,6 +1,6 @@
 ﻿BUILDINGS={
 	s:STATE_SVEALAND={
-		region_state:SWE={
+		region_state:SVE={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -130,7 +130,7 @@
 		}
 	}
 	s:STATE_GOTALAND={
-		region_state:SWE={
+		region_state:SVE={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -255,7 +255,7 @@
 		}
 	}
 	s:STATE_SCANIA={
-		region_state:SWE={
+		region_state:DNE={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -390,7 +390,7 @@
 		}
 	}
 	s:STATE_NORRLAND={
-		region_state:SWE={
+		region_state:SVE={
 			create_building={
 				building="building_logging_camp"
 				add_ownership={
@@ -420,7 +420,7 @@
 		}
 	}
 	s:STATE_GOTLAND={
-		region_state:SWE={
+		region_state:SVE={
 			create_building={
 				building="building_port"
 				add_ownership={
@@ -435,7 +435,7 @@
 		}
 	}
 	s:STATE_JUTLAND={
-		region_state:DEN={
+		region_state:DNE={
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -489,7 +489,7 @@
 		}
 	}
 	s:STATE_ZEALAND={
-		region_state:DEN={
+		region_state:DNE={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -650,7 +650,7 @@
 		}
 	}
 	s:STATE_WESTERN_NORWAY={
-		region_state:NOR={
+		region_state:NRR={
 			create_building={
 				building="building_fishing_wharf"
 				add_ownership={
@@ -717,7 +717,7 @@
 		}
 	}
 	s:STATE_NORTHERN_NORWAY={
-		region_state:NOR={
+		region_state:NRR={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -756,7 +756,7 @@
 		}
 	}
 	s:STATE_EASTERN_NORWAY={
-		region_state:NOR={
+		region_state:NRR={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -877,7 +877,7 @@
 		}
 	}
 	s:STATE_ICELAND={
-		region_state:DEN={
+		region_state:DNE={
 			create_building={
 				building="building_fishing_wharf"
 				add_ownership={
@@ -905,11 +905,11 @@
 		}
 	}
 	s:STATE_GREENLAND={
-		region_state:DEN={
+		region_state:DNE={
 		}
 	}
 	s:STATE_HOME_COUNTIES={
-		region_state:GBR={
+		region_state:PRY={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -1116,7 +1116,7 @@
 		}
 	}
 	s:STATE_LANCASHIRE={
-		region_state:GBR={
+		region_state:PRY={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -1313,7 +1313,7 @@
 		}
 	}
 	s:STATE_WALES={
-		region_state:GBR={
+		region_state:PRY={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -1392,7 +1392,7 @@
 		}
 	}
 	s:STATE_YORKSHIRE={
-		region_state:GBR={
+		region_state:PRY={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -1599,7 +1599,7 @@
 		}
 	}
 	s:STATE_HIGHLANDS={
-		region_state:GBR={
+		region_state:PRY={
 			create_building={
 				building="building_logging_camp"
 				add_ownership={
@@ -1648,7 +1648,7 @@
 		}
 	}
 	s:STATE_MIDLANDS={
-		region_state:GBR={
+		region_state:PRY={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -1866,7 +1866,7 @@
 		}
 	}
 	s:STATE_EAST_ANGLIA={
-		region_state:GBR={
+		region_state:PRY={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -2070,7 +2070,7 @@
 		}
 	}
 	s:STATE_WEST_COUNTRY={
-		region_state:GBR={
+		region_state:PRY={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -2244,7 +2244,7 @@
 		}
 	}
 	s:STATE_LOWLANDS={
-		region_state:GBR={
+		region_state:PRY={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -2429,7 +2429,7 @@
 		}
 	}
 	s:STATE_ULSTER={
-		region_state:GBR={
+		region_state:PRY={
 			create_building={
 				building="building_livestock_ranch"
 				add_ownership={
@@ -2483,7 +2483,7 @@
 		}
 	}
 	s:STATE_MUNSTER={
-		region_state:GBR={
+		region_state:PRY={
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -2511,7 +2511,7 @@
 		}
 	}
 	s:STATE_LEINSTER={
-		region_state:GBR={
+		region_state:PRY={
 			create_building={
 				building="building_university"
 				add_ownership={
@@ -2589,7 +2589,7 @@
 		}
 	}
 	s:STATE_CONNAUGHT={
-		region_state:GBR={
+		region_state:PRY={
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -2606,7 +2606,7 @@
 		}
 	}
 	s:STATE_ILE_DE_FRANCE={
-		region_state:FRA={
+		region_state:GLL={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -2744,7 +2744,7 @@
 		}
 	}
 	s:STATE_PROVENCE={
-		region_state:SAR={
+		region_state:GLL={
 			create_building={
 				building="building_fishing_wharf"
 				add_ownership={
@@ -2785,7 +2785,7 @@
 				activate_production_methods={ "default_building_vineyard_plantation" "pm_road_carts"  }
 			}
 		}
-		region_state:FRA={
+		region_state:GLL={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -2890,7 +2890,7 @@
 		}
 	}
 	s:STATE_NORMANDY={
-		region_state:FRA={
+		region_state:GLL={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -3019,7 +3019,7 @@
 		}
 	}
 	s:STATE_LANGUEDOC={
-		region_state:FRA={
+		region_state:AQT={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -3124,7 +3124,7 @@
 		}
 	}
 	s:STATE_RHONE={
-		region_state:FRA={
+		region_state:GLL={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -3301,7 +3301,7 @@
 		}
 	}
 	s:STATE_FRENCH_LOW_COUNTRIES={
-		region_state:FRA={
+		region_state:GLL={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -3441,7 +3441,7 @@
 		}
 	}
 	s:STATE_PICARDY={
-		region_state:FRA={
+		region_state:GLL={
 			create_building={
 				building="building_textile_mills"
 				add_ownership={
@@ -3490,7 +3490,7 @@
 		}
 	}
 	s:STATE_ALSACE_LORRAINE={
-		region_state:FRA={
+		region_state:GLL={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -3601,7 +3601,7 @@
 		}
 	}
 	s:STATE_POITOU={
-		region_state:FRA={
+		region_state:AQT={
 			create_building={
 				building="building_paper_mills"
 				add_ownership={
@@ -3672,7 +3672,7 @@
 		}
 	}
 	s:STATE_GUYENNE={
-		region_state:FRA={
+		region_state:AQT={
 			create_building={
 				building="building_textile_mills"
 				add_ownership={
@@ -3746,7 +3746,7 @@
 		}
 	}
 	s:STATE_AUVERGNE_LIMOUSIN={
-		region_state:FRA={
+		region_state:AQT={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -3835,7 +3835,7 @@
 		}
 	}
 	s:STATE_BRITTANY={
-		region_state:FRA={
+		region_state:GLL={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -3981,7 +3981,7 @@
 		}
 	}
 	s:STATE_BURGUNDY={
-		region_state:FRA={
+		region_state:GLL={
 			create_building={
 				building="building_tooling_workshops"
 				add_ownership={
@@ -4068,7 +4068,7 @@
 		}
 	}
 	s:STATE_CHAMPAGNE={
-		region_state:FRA={
+		region_state:GLL={
 			create_building={
 				building="building_food_industry"
 				add_ownership={
@@ -4130,7 +4130,7 @@
 		}
 	}
 	s:STATE_FRANCHE_COMTE={
-		region_state:FRA={
+		region_state:GLL={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -4211,7 +4211,7 @@
 		}
 	}
 	s:STATE_LORRAINE={
-		region_state:FRA={
+		region_state:GLL={
 			create_building={
 				building="building_tooling_workshops"
 				add_ownership={
@@ -4298,7 +4298,7 @@
 		}
 	}
 	s:STATE_AQUITAINE={
-		region_state:FRA={
+		region_state:AQT={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -4403,7 +4403,7 @@
 		}
 	}
 	s:STATE_ORLEANS={
-		region_state:FRA={
+		region_state:GLL={
 			create_building={
 				building="building_glassworks"
 				add_ownership={
@@ -4459,7 +4459,7 @@
 		}
 	}
 	s:STATE_HOLLAND={
-		region_state:NET={
+		region_state:BTV={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -4632,7 +4632,7 @@
 		}
 	}
 	s:STATE_FRIESLAND={
-		region_state:NET={
+		region_state:BTV={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -4727,7 +4727,7 @@
 		}
 	}
 	s:STATE_GELRE={
-		region_state:NET={
+		region_state:BTV={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -4813,7 +4813,7 @@
 		}
 	}
 	s:STATE_WALLONIA={
-		region_state:LUX={
+		region_state:BTV={
 			create_building={
 				building="building_wheat_farm"
 				add_ownership={
@@ -4841,7 +4841,7 @@
 				activate_production_methods={ "pm_open_air_stockyards" "pm_simple_ranch" "pm_standard_fences" "pm_unrefrigerated"  }
 			}
 		}
-		region_state:BEL={
+		region_state:BTV={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -5008,7 +5008,7 @@
 		}
 	}
 	s:STATE_FLANDERS={
-		region_state:BEL={
+		region_state:BTV={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -5221,7 +5221,7 @@
 		}
 	}
 	s:STATE_AUSTRIA={
-		region_state:AUS={
+		region_state:SUE={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -5352,7 +5352,7 @@
 		}
 	}
 	s:STATE_BOHEMIA={
-		region_state:AUS={
+		region_state:BOH={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -5524,7 +5524,7 @@
 		}
 	}
 	s:STATE_MORAVIA={
-		region_state:AUS={
+		region_state:BOH={
 			create_building={
 				building="building_textile_mills"
 				add_ownership={
@@ -5611,7 +5611,7 @@
 		}
 	}
 	s:STATE_STYRIA={
-		region_state:AUS={
+		region_state:SUE={
 			create_building={
 				building="building_iron_mine"
 				add_ownership={
@@ -5667,7 +5667,7 @@
 		}
 	}
 	s:STATE_TYROL={
-		region_state:AUS={
+		region_state:SUE={
 			create_building={
 				building="building_iron_mine"
 				add_ownership={
@@ -5708,7 +5708,7 @@
 		}
 	}
 	s:STATE_SOUTH_TYROL={
-		region_state:AUS={
+		region_state:SUE={
 			create_building={
 				building="building_wheat_farm"
 				add_ownership={
@@ -5725,7 +5725,7 @@
 		}
 	}
 	s:STATE_POMERANIA={
-		region_state:PRU={
+		region_state:SXN={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -5817,7 +5817,7 @@
 		}
 	}
 	s:STATE_ELBE={
-		region_state:BRE={
+		region_state:SXN={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -5854,7 +5854,7 @@
 				activate_production_methods={ "pm_basic_port" }
 			}
 		}
-		region_state:HAM={
+		region_state:SXN={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -5906,7 +5906,7 @@
 				activate_production_methods={ "pm_basic_port" }
 			}
 		}
-		region_state:HAN={
+		region_state:SXN={
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -5949,7 +5949,7 @@
 		}
 	}
 	s:STATE_EAST_SWITZERLAND={
-		region_state:SWI={
+		region_state:SUE={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -6051,7 +6051,7 @@
 		}
 	}
 	s:STATE_WEST_SWITZERLAND={
-		region_state:SWI={
+		region_state:SUE={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -6140,7 +6140,7 @@
 		}
 	}
 	s:STATE_WESTPHALIA={
-		region_state:PRU={
+		region_state:SXN={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -6259,7 +6259,7 @@
 				activate_production_methods={ "pm_soil_enriching_farming" "pm_potatoes" "pm_tools"  }
 			}
 		}
-		region_state:LIP={
+		region_state:SXN={
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -6274,11 +6274,11 @@
 				activate_production_methods={ "pm_simple_farming"  "pm_tools_disabled" "pm_potatoes" }
 			}
 		}
-		region_state:SCM={
+		region_state:SXN={
 		}
 	}
 	s:STATE_ANHALT={
-		region_state:PRU={
+		region_state:SXN={
 			create_building={
 				building="building_furniture_manufacturies"
 				add_ownership={
@@ -6338,7 +6338,7 @@
 				activate_production_methods={ "pm_simple_farming"  "pm_tools_disabled" "pm_potatoes" }
 			}
 		}
-		region_state:ANH={
+		region_state:SXN={
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -6355,7 +6355,7 @@
 		}
 	}
 	s:STATE_RHINELAND={
-		region_state:PRU={
+		region_state:GLL={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -6450,7 +6450,7 @@
 				activate_production_methods={ "default_building_vineyard_plantation" "pm_road_carts"  }
 			}
 		}
-		region_state:BAV={
+		region_state:SUE={
 			create_building={
 				building="building_wheat_farm"
 				add_ownership={
@@ -6493,7 +6493,7 @@
 		}
 	}
 	s:STATE_NORTH_RHINE={
-		region_state:PRU={
+		region_state:GLL={
 			create_building={
 				building="building_textile_mills"
 				add_ownership={
@@ -6574,7 +6574,7 @@
 		}
 	}
 	s:STATE_BRANDENBURG={
-		region_state:PRU={
+		region_state:SXN={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -6692,7 +6692,7 @@
 		}
 	}
 	s:STATE_SCHLESWIG_HOLSTEIN={
-		region_state:HOL={
+		region_state:SXN={
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -6752,7 +6752,7 @@
 				activate_production_methods={ "pm_saw_mills" "pm_hardwood" "pm_no_equipment" "pm_road_carts"  }
 			}
 		}
-		region_state:LUB={
+		region_state:SXN={
 			create_building={
 				building="building_port"
 				add_ownership={
@@ -6778,7 +6778,7 @@
 				reserves=1
 			}
 		}
-		region_state:SCH={
+		region_state:SXN={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -6819,7 +6819,7 @@
 		}
 	}
 	s:STATE_WURTTEMBERG={
-		region_state:WUR={
+		region_state:SUE={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -6946,7 +6946,7 @@
 				activate_production_methods={ "pm_saw_mills" "pm_hardwood" "pm_no_equipment" "pm_road_carts"  }
 			}
 		}
-		region_state:HOH={
+		region_state:SUE={
 			create_building={
 				building="building_wheat_farm"
 				add_ownership={
@@ -6974,7 +6974,7 @@
 		}
 	}
 	s:STATE_BADEN={
-		region_state:BAD={
+		region_state:SUE={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -7065,7 +7065,7 @@
 		}
 	}
 	s:STATE_HANNOVER={
-		region_state:OLD={
+		region_state:SXN={
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -7091,7 +7091,7 @@
 				activate_production_methods={ "pm_anchorage" }
 			}
 		}
-		region_state:HAN={
+		region_state:SXN={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -7186,7 +7186,7 @@
 		}
 	}
 	s:STATE_BRUNSWICK={
-		region_state:HAN={
+		region_state:SXN={
 			create_building={
 				building="building_livestock_ranch"
 				add_ownership={
@@ -7201,7 +7201,7 @@
 				activate_production_methods={ "pm_open_air_stockyards" "pm_simple_ranch" "pm_standard_fences" "pm_unrefrigerated"  }
 			}
 		}
-		region_state:BRA={
+		region_state:SXN={
 			create_building={
 				building="building_livestock_ranch"
 				add_ownership={
@@ -7229,11 +7229,11 @@
 				activate_production_methods={ "pm_picks_and_shovels_building_iron_mine" "pm_no_explosives" "pm_no_steam_automation" "pm_road_carts"  }
 			}
 		}
-		region_state:PRU={
+		region_state:SXN={
 		}
 	}
 	s:STATE_BAVARIA={
-		region_state:BAV={
+		region_state:SUE={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -7379,7 +7379,7 @@
 		}
 	}
 	s:STATE_FRANCONIA={
-		region_state:BAV={
+		region_state:SUE={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -7484,7 +7484,7 @@
 		}
 	}
 	s:STATE_SAXONY={
-		region_state:SAX={
+		region_state:SXN={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -7592,7 +7592,7 @@
 				activate_production_methods={ "pm_open_air_stockyards" "pm_simple_ranch" "pm_standard_fences" "pm_unrefrigerated"  }
 			}
 		}
-		region_state:MEI={
+		region_state:SXN={
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -7631,7 +7631,7 @@
 				activate_production_methods={ "pm_no_organization" }
 			}
 		}
-		region_state:WEI={
+		region_state:SXN={
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -7683,7 +7683,7 @@
 				activate_production_methods={ "pm_no_organization" }
 			}
 		}
-		region_state:COB={
+		region_state:SXN={
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -7722,7 +7722,7 @@
 				activate_production_methods={ "pm_no_organization" }
 			}
 		}
-		region_state:SCW={
+		region_state:SXN={
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -7774,7 +7774,7 @@
 		}
 	}
 	s:STATE_HESSE={
-		region_state:FRM={
+		region_state:SXN={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -7802,7 +7802,7 @@
 				activate_production_methods={ "pm_handsewn_clothes" "pm_no_luxury_clothes" "pm_traditional_looms"  }
 			}
 		}
-		region_state:HES={
+		region_state:SXN={
 			create_building={
 				building="building_paper_mills"
 				add_ownership={
@@ -7867,7 +7867,7 @@
 				activate_production_methods={  "pm_simple_ranch" "pm_standard_fences" "pm_unrefrigerated" "pm_butchering_tools" }
 			}
 		}
-		region_state:HEK={
+		region_state:SXN={
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -7908,7 +7908,7 @@
 				activate_production_methods={ "pm_saw_mills" "pm_hardwood" "pm_no_equipment" "pm_road_carts"  }
 			}
 		}
-		region_state:NAS={
+		region_state:SXN={
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -7949,7 +7949,7 @@
 				activate_production_methods={ "pm_saw_mills" "pm_hardwood" "pm_no_equipment" "pm_road_carts"  }
 			}
 		}
-		region_state:WLD={
+		region_state:SXN={
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -7966,7 +7966,7 @@
 		}
 	}
 	s:STATE_MECKLENBURG={
-		region_state:MEC={
+		region_state:SXN={
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -8005,7 +8005,7 @@
 				activate_production_methods={ "pm_basic_port" }
 			}
 		}
-		region_state:MST={
+		region_state:SXN={
 			create_building={
 				building="building_rye_farm"
 				add_ownership={
@@ -8046,7 +8046,7 @@
 		}
 	}
 	s:STATE_RUHR={
-		region_state:PRU={
+		region_state:GLL={
 			create_building={
 				building="building_arms_industry"
 				add_ownership={
@@ -8159,7 +8159,7 @@
 		}
 	}
 	s:STATE_MAINE_ANJOU={
-		region_state:FRA={
+		region_state:GLL={
 			create_building={
 				building="building_wheat_farm"
 				add_ownership={

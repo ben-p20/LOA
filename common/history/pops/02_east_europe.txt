@@ -179,7 +179,7 @@
 		}
 	}
 	s:STATE_SILESIA = {
-		region_state:PRU = {
+		region_state:LUG = {
 			create_pop = {
 				culture = north_german
 				size = 1319008
@@ -205,7 +205,7 @@
 		}
 	}
 	s:STATE_WEST_PRUSSIA = {
-		region_state:PRU = {
+		region_state:LUG = {
 			create_pop = {
 				culture = north_german
 				size = 452400
@@ -258,7 +258,7 @@
 		}
 	}
 	s:STATE_POSEN = {
-		region_state:PRU = {
+		region_state:LUG = {
 			create_pop = {
 				culture = north_german
 				size = 540400
@@ -279,7 +279,7 @@
 		}
 	}
 	s:STATE_WEST_GALICIA = {
-		region_state:AUS = {
+		region_state:LUG = {
 			create_pop = {
 				culture = polish
 				size = 1740004
@@ -297,7 +297,7 @@
 				size = 136000
 			}
 		}
-		region_state:KRA = {
+		region_state:LUG = {
 			create_pop = {
 				culture = polish
 				size = 172396
@@ -317,7 +317,7 @@
 		}
 	}
 	s:STATE_EAST_GALICIA = {
-		region_state:AUS = {
+		region_state:LUG = {
 			create_pop = {
 				culture = polish
 				size = 832800
@@ -704,6 +704,94 @@
 				pop_type = slaves
 				culture = romanian
 				size = 120176
+			}
+		}
+	}
+	s:STATE_MAZOVIA={
+		region_state:LUG={
+			create_pop = {
+				culture = polish
+				size = 1424000
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 160000
+			}
+			create_pop = {
+				culture = north_german
+				size = 16000
+			}
+		}
+	}
+	s:STATE_GREATER_POLAND={
+		region_state:LUG={
+			create_pop = {
+				culture = polish
+				size = 1248000
+			}
+			create_pop = {
+				culture = north_german
+				size = 240000
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 112000
+			}
+		}
+	}
+	s:STATE_LESSER_POLAND={
+		region_state:LUG={
+			create_pop = {
+				culture = polish
+				size = 1376000
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 112000
+			}
+			create_pop = {
+				culture = north_german
+				size = 16000
+			}
+		}
+	}
+	s:STATE_BREST={
+		region_state:RUS={
+			create_pop = {
+				culture = byelorussian
+				size = 720000
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 80000
+			}
+		}
+	}
+	s:STATE_BESSARABIA={
+		region_state:RUS={
+			create_pop = {
+				culture = romanian
+				size = 544000
+			}
+			create_pop = {
+				culture = ukrainian
+				size = 80000
+			}
+			create_pop = {
+				culture = bulgarian
+				size = 48000
+			}
+			create_pop = {
+				culture = russian
+				size = 24000
+			}
+			create_pop = {
+				culture = south_german
+				size = 24000
+			}
+			create_pop = {
+				culture = ashkenazi
+				size = 80000
 			}
 		}
 	}

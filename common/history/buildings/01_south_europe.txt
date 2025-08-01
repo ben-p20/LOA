@@ -1,6 +1,6 @@
 BUILDINGS={
 	s:STATE_LOMBARDY={
-		region_state:AUS={
+		region_state:CIS={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -118,7 +118,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_PIEDMONT={
-		region_state:SAR={
+		region_state:CIS={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -316,7 +316,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_SARDINIA={
-		region_state:CRT={
+		region_state:MGL={
 			create_building={
 				building="building_iron_mine"
 				add_ownership={
@@ -389,7 +389,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_MALTA={
-		region_state:CRT={
+		region_state:MGL={
 			create_building={
 				building="building_fishing_wharf"
 				add_ownership={
@@ -417,7 +417,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_UMBRIA={
-		region_state:PAP={
+		region_state:TUS={
 			create_building={
 				building="building_fishing_wharf"
 				add_ownership={
@@ -460,7 +460,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_CORSICA={
-		region_state:FRA={
+		region_state:CIS={
 			create_building={
 				building="building_livestock_ranch"
 				add_ownership={
@@ -501,7 +501,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_CAMPANIA={
-		region_state:SIC={
+		region_state:MGL={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -713,7 +713,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_CALABRIA={
-		region_state:SIC={
+		region_state:MGL={
 			create_building={
 				building="building_food_industry"
 				add_ownership={
@@ -819,7 +819,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_APULIA={
-		region_state:SIC={
+		region_state:MGL={
 			create_building={
 				building="building_sugar_plantation"
 				add_ownership={
@@ -875,7 +875,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_ABRUZZO={
-		region_state:SIC={
+		region_state:MGL={
 			create_building={
 				building="building_furniture_manufacturies"
 				add_ownership={
@@ -944,7 +944,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_SAVOY={
-		region_state:SAR={
+		region_state:CIS={
 			create_building={
 				building="building_wheat_farm"
 				add_ownership={
@@ -1011,7 +1011,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_EMILIA={
-		region_state:PAR={
+		region_state:CIS={
 			create_building={
 				building="building_wheat_farm"
 				add_ownership={
@@ -1052,7 +1052,7 @@ BUILDINGS={
 				activate_production_methods={ "pm_open_air_stockyards" "pm_simple_ranch" "pm_standard_fences" "pm_unrefrigerated"  }
 			}
 		}
-		region_state:LUC={
+		region_state:CIS={
 			create_building={
 				building="building_textile_mills"
 				add_ownership={
@@ -1104,7 +1104,7 @@ BUILDINGS={
 				activate_production_methods={ "pm_anchorage" }
 			}
 		}
-		region_state:MOD={
+		region_state:CIS={
 			create_building={
 				building="building_wheat_farm"
 				add_ownership={
@@ -1343,7 +1343,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_ROMAGNA={
-		region_state:PAP={
+		region_state:TUS={
 			create_building={
 				building="building_textile_mills"
 				add_ownership={
@@ -1412,7 +1412,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_LAZIO={
-		region_state:PAP={
+		region_state:TUS={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -1518,7 +1518,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_VENETIA={
-		region_state:AUS={
+		region_state:CIS={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -1682,7 +1682,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_SICILY={
-		region_state:SIC={
+		region_state:MGL={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -1760,7 +1760,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_TOLEDO={
-		region_state:SPA={
+		region_state:CLT={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -1838,7 +1838,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_GALICIA={
-		region_state:SPA={
+		region_state:CLT={
 			create_building={
 				building="building_glassworks"
 				add_ownership={
@@ -1924,7 +1924,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_ASTURIAS={
-		region_state:SPA={
+		region_state:CLT={
 			create_building={
 				building="building_gold_mine"
 				add_ownership={
@@ -1989,7 +1989,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_CASTILE={
-		region_state:SPA={
+		region_state:CLT={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -2093,7 +2093,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_NAVARRA={
-		region_state:SPA={
+		region_state:CLT={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -2238,7 +2238,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_ARAGON={
-		region_state:SPA={
+		region_state:CLT={
 			create_building={
 				building="building_wheat_farm"
 				add_ownership={
@@ -2319,7 +2319,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_CATALONIA={
-		region_state:SPA={
+		region_state:CLT={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -2440,7 +2440,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_BALEARES={
-		region_state:CRT={
+		region_state:TAR={
 			create_building={
 				building="building_fishing_wharf"
 				add_ownership={
@@ -2481,7 +2481,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_ANDALUSIA={
-		region_state:SPA={
+		region_state:TAR={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -2626,7 +2626,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_GRANADA={
-		region_state:SPA={
+		region_state:TAR={
 			create_building={
 				building="building_rice_farm"
 				add_ownership={
@@ -2686,7 +2686,7 @@ BUILDINGS={
 				activate_production_methods={ "default_building_sugar_plantation" "pm_road_carts"  }
 			}
 		}
-		region_state:GBR={
+		region_state:TAR={
 			create_building={
 				building="building_port"
 				add_ownership={
@@ -2701,7 +2701,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_BADAJOZ={
-		region_state:SPA={
+		region_state:TAR={
 			create_building={
 				building="building_livestock_ranch"
 				add_ownership={
@@ -2718,7 +2718,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_VALENCIA={
-		region_state:SPA={
+		region_state:CLT={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -4044,7 +4044,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_ISTRIA={
-		region_state:AUS={
+		region_state:CIS={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
