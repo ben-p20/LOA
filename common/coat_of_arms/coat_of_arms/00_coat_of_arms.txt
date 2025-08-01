@@ -1,0 +1,286 @@
+AQU = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_solid.dds" # Regular Border
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.05 } }
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.95 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.033 0.5 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.967 0.5 } }
+	}
+}
+
+BAT = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_solid.dds" # Regular Border
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.05 } }
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.95 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.033 0.5 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.967 0.5 } }
+	}
+}
+
+BOK = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_solid.dds" # Regular Border
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.05 } }
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.95 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.033 0.5 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.967 0.5 } }
+	}
+}
+
+CEL = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_solid.dds" # Regular Border
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.05 } }
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.95 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.033 0.5 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.967 0.5 } }
+	}
+}
+
+CIS = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_solid.dds" # Regular Border
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.05 } }
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.95 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.033 0.5 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.967 0.5 } }
+	}
+}
+
+CRT = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_solid.dds" # Regular Border
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.05 } }
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.95 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.033 0.5 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.967 0.5 } }
+	}
+}
+
+DAN = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_solid.dds" # Regular Border
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.05 } }
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.95 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.033 0.5 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.967 0.5 } }
+	}
+}
+
+GLL = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_solid.dds" # Regular Border
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.05 } }
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.95 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.033 0.5 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.967 0.5 } }
+	}
+}
+
+LUG = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_solid.dds" # Regular Border
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.05 } }
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.95 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.033 0.5 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.967 0.5 } }
+	}
+}
+
+MAC = { # Macedon
+	# Peace treaty flag (replaced the traditionnal plain red flag)
+
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_solid.dds" # Regular Border
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.05 } }
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.95 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.033 0.5 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.967 0.5 } }
+	}
+}
+
+MGC = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_solid.dds" # Regular Border
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.05 } }
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.95 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.033 0.5 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.967 0.5 } }
+	}
+}
+
+NWC = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_solid.dds" # Regular Border
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.05 } }
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.95 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.033 0.5 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.967 0.5 } }
+	}
+}
+
+PRY = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_solid.dds" # Regular Border
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.05 } }
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.95 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.033 0.5 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.967 0.5 } }
+	}
+}
+
+SAS = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_solid.dds" # Regular Border
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.05 } }
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.95 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.033 0.5 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.967 0.5 } }
+	}
+}
+
+SUE = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_solid.dds" # Regular Border
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.05 } }
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.95 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.033 0.5 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.967 0.5 } }
+	}
+}
+
+SVE = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_solid.dds" # Regular Border
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.05 } }
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.95 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.033 0.5 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.967 0.5 } }
+	}
+}
+
+SXN = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_solid.dds" # Regular Border
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.05 } }
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.95 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.033 0.5 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.967 0.5 } }
+	}
+}
+
+TRT = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_solid.dds" # Regular Border
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.05 } }
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.95 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.033 0.5 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.967 0.5 } }
+	}
+}
+
+TSC = {
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_solid.dds" # Regular Border
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.05 } }
+		instance = { scale = { 1.0 0.1 } position = { 0.5 0.95 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.033 0.5 } }
+		instance = { scale = { 0.066 1.0 } position = { 0.967 0.5 } }
+	}
+}
