@@ -500,7 +500,7 @@
 		}
 	}
 	s:STATE_MARRAKECH={
-		region_state:MOR={
+		region_state:CRT={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -587,7 +587,7 @@
 		}
 	}
 	s:STATE_FEZ={
-		region_state:MOR={
+		region_state:CRT={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -676,7 +676,7 @@
 		}
 	}
 	s:STATE_AL_RIF={
-		region_state:MOR={
+		region_state:CRT={
 			create_building={
 				building="building_livestock_ranch"
 				add_ownership={
@@ -940,7 +940,7 @@
 		}
 	}
 	s:STATE_CONSTANTINE={
-		region_state:CON={
+		region_state:CRT={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -1118,7 +1118,7 @@
 		}
 	}
 	s:STATE_ORAN={
-		region_state:MAS={
+		region_state:CRT={
 			create_building={
 				building="building_wheat_farm"
 				add_ownership={
@@ -1211,7 +1211,7 @@
 		}
 	}
 	s:STATE_TUNISIA={
-		region_state:TUN={
+		region_state:CRT={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_limited" }
