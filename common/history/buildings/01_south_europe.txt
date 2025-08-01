@@ -3333,7 +3333,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_EASTERN_THRACE={
-		region_state:TUR={
+		region_state:MAC={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -3541,7 +3541,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_ALBANIA={
-		region_state:TUR={
+		region_state:MAC={
 			create_building={
 				building="building_textile_mills"
 				add_ownership={
@@ -3685,7 +3685,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_NORTHERN_THRACE={
-		region_state:TUR={
+		region_state:MAC={
 			create_building={
 				building="building_furniture_manufacturies"
 				add_ownership={
@@ -3754,7 +3754,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_BULGARIA={
-		region_state:TUR={
+		region_state:MAC={
 			create_building={
 				building="building_furniture_manufacturies"
 				add_ownership={
@@ -4128,7 +4128,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_MONTENEGRO={
-		region_state:TUR={
+		region_state:MAC={
 			create_building={
 				building="building_livestock_ranch"
 				add_ownership={
@@ -4143,7 +4143,7 @@ BUILDINGS={
 				activate_production_methods={ "pm_open_air_stockyards" "pm_simple_ranch" "pm_standard_fences" "pm_unrefrigerated"  }
 			}
 		}
-		region_state:MON={
+		region_state:MAC={
 			create_building={
 				building="building_livestock_ranch"
 				add_ownership={
@@ -4158,7 +4158,7 @@ BUILDINGS={
 				activate_production_methods={ "pm_open_air_stockyards" "pm_simple_ranch" "pm_standard_fences" "pm_unrefrigerated"  }
 			}
 		}
-		region_state:AUS={
+		region_state:MAC={
 			create_building={
 				building="building_port"
 				add_ownership={
@@ -4216,7 +4216,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_SOUTHERN_SERBIA={
-		region_state:TUR={
+		region_state:MAC={
 			create_building={
 				building="building_livestock_ranch"
 				add_ownership={
@@ -4252,7 +4252,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_CRETE={
-		region_state:EGY={
+		region_state:MAC={
 			create_building={
 				building="building_cotton_plantation"
 				add_ownership={
@@ -4310,7 +4310,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_EAST_AEGEAN_ISLANDS={
-		region_state:TUR={
+		region_state:MAC={
 			create_building={
 				building="building_fishing_wharf"
 				add_ownership={
@@ -4463,7 +4463,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_THESSALIA={
-		region_state:TUR={
+		region_state:MAC={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -4530,7 +4530,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_SKOPIA={
-		region_state:TUR={
+		region_state:MAC={
 			create_building={
 				building="building_iron_mine"
 				add_ownership={
@@ -4579,7 +4579,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_MACEDONIA={
-		region_state:TUR={
+		region_state:MAC={
 			create_building={
 				building="building_trade_center"
 				activate_production_methods={ "pm_trade_center_trade_quantity_normal" }
@@ -4648,7 +4648,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_WESTERN_THRACE={
-		region_state:TUR={
+		region_state:MAC={
 			create_building={
 				building="building_government_administration"
 				add_ownership={
@@ -4751,7 +4751,7 @@ BUILDINGS={
 		}
 	}
 	s:STATE_IONIAN_ISLANDS={
-		region_state:ION={
+		region_state:MAC={
 			create_building={
 				building="building_wheat_farm"
 				add_ownership={
