@@ -92,7 +92,7 @@ POPS = {
 		}
 	}
 	s:STATE_WESTERN_NORWAY = {
-		region_state:NRR = {
+		region_state:NWC = {
 			create_pop = {
 				culture = norwegian
 				size = 546800
@@ -100,7 +100,7 @@ POPS = {
 		}
 	}
 	s:STATE_NORTHERN_NORWAY = {
-		region_state:NRR = {
+		region_state:NWC = {
 			create_pop = {
 				culture = norwegian
 				size = 284860
@@ -116,7 +116,7 @@ POPS = {
 		}
 	}
 	s:STATE_EASTERN_NORWAY = {
-		region_state:NRR = {
+		region_state:NWC = {
 			create_pop = {
 				culture = norwegian
 				size = 345800
@@ -480,7 +480,7 @@ POPS = {
 		}
 	}
 	s:STATE_LANGUEDOC = {
-		region_state:AQT = {
+		region_state:AQU = {
 			create_pop = {
 				culture = occitan
 				size = 1994848
@@ -608,7 +608,7 @@ POPS = {
 		}
 	}
 	s:STATE_POITOU = {
-		region_state:AQT = {
+		region_state:AQU = {
 			create_pop = {
 				culture = french
 				size = 1680062
@@ -629,7 +629,7 @@ POPS = {
 		}
 	}
 	s:STATE_GUYENNE = {
-		region_state:AQT = {
+		region_state:AQU = {
 			create_pop = {
 				culture = occitan
 				size = 1693584
@@ -646,7 +646,7 @@ POPS = {
 		}
 	}
 	s:STATE_AUVERGNE_LIMOUSIN = {
-		region_state:AQT = {
+		region_state:AQU = {
 			create_pop = {
 				culture = occitan
 				size = 1949056
@@ -785,7 +785,7 @@ POPS = {
 		}
 	}
 	s:STATE_AQUITAINE = {
-		region_state:AQT = {
+		region_state:AQU = {
 			create_pop = {
 				culture = occitan
 				size = 1703916
@@ -828,7 +828,7 @@ POPS = {
 	}
 	# Zuidholland, Noordholland, Zeeland, and Utrecht
 	s:STATE_HOLLAND = {
-		region_state:BTV = {
+		region_state:BAT = {
 			create_pop = {
 				culture = dutch
 				size = 842331
@@ -859,7 +859,7 @@ POPS = {
 	}
 	# Friesland, Overijssel, Groningen, and Drenthe
 	s:STATE_FRIESLAND = {
-		region_state:BTV = {
+		region_state:BAT = {
 			create_pop = {
 				culture = dutch
 				size = 528678
@@ -882,7 +882,7 @@ POPS = {
 	}
 	# Noordbrabant, Gelderland, and Limburg
 	s:STATE_GELRE = {
-		region_state:BTV = {
+		region_state:BAT = {
 			create_pop = {
 				culture = dutch
 				size = 192091
@@ -907,7 +907,7 @@ POPS = {
 				size = 15101
 			}
 		}
-		region_state:BTV = {
+		region_state:BAT = {
 			create_pop = {
 				culture = dutch
 				religion = catholic
@@ -925,7 +925,7 @@ POPS = {
 		}
 	}
 	s:STATE_WALLONIA = {
-		region_state:BTV = {
+		region_state:BAT = {
 			create_pop = {
 				culture = wallonian
 				size = 103992
@@ -945,7 +945,7 @@ POPS = {
 			}
 		}
 		# Hainaut, Liège, Luxembourg, and Namur
-		region_state:BTV = { #
+		region_state:BAT = { #
 			create_pop = {
 				culture = wallonian # 'Walloon & French' in census data.
 				size = 1413476
@@ -976,7 +976,7 @@ POPS = {
 	}
 	# Antwerp, Brabant, West Flanders, East Flanders, and Limburg
 	s:STATE_FLANDERS = {
-		region_state:BTV = {
+		region_state:BAT = {
 			create_pop = {
 				culture = flemish # 'Flemish & Dutch' in census data.
 				size = 2224197
